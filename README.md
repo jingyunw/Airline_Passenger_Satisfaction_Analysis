@@ -4,7 +4,7 @@
 
 
 ## For More Information
-See the full analysis and modeling in the [Jupyter Notebook](./Airline Passenger Satisfaction.ipynb) and presentation.
+See the full analysis and modeling in the [Jupyter Notebook](./Airline-Passenger-Satisfaction.ipynb) and presentation.
 For additional information please contact, JingYun (Jonna) Wang at jingyunwang24@gmail.com
 
 ## Repository Structure
