@@ -1,6 +1,8 @@
 # Other PDF materials for submission
-__pycache__
 untitled folder/
+
+# evalution pycache
+__pycache__
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
