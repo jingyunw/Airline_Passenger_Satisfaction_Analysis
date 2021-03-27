@@ -82,8 +82,8 @@ For additional information please contact, JingYun (Jonna) Wang at jingyunwang24
 ```
 ├── data
 ├── images
-├── Satisfaction-Presentation.pdf
 ├── Airline-Passenger-Satisfaction.ipynb
 ├── README.md
+├── Satisfaction-Presentation.pdf
 └── eva_f.py
 ```
