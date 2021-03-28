@@ -7,12 +7,13 @@ def evaluate (model, X_train, X_test, y_train, y_test, use_decision_function='ye
     Evaluate a classifier model based on both training and testing predictions.
     In terms of Accuracy, F1-score and Roc-Auc score.
     
-    Corresponding training and testing results will be save to the list for later model comparison.
+    Training and testing results will be save to the corresponding lists.
     
-    Also shows confusion matrix and roc-curve for the testing
+    Also shows confusion matrix and roc-curve for the testing.
     -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
     
     Inputs:
+    - model: classifier model
     - use_decision_function allows you to toggle whether you use decision_function or
     predict_proba in order to get the output needed for roc_auc_score
     - If use_decision_function == 'skip', then it ignores calculating the roc_auc_score
