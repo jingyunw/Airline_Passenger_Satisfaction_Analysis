@@ -1,6 +1,7 @@
 # Airline Passenger Satisfaction Analysis
 Author: [JingYun (Jonna) Wang](/jingyunwang24@gmail.com)
-<img src="images/aviation.jpeg" style="width:600px;height:400px"/>
+
+<img src="images/aviation.jpeg" style="width:300px;height:200px"/>
 
 ## Overview
 This project uses exploratory data analysis and 7 classification modelings to predict airline passenger satisfaction after the flight journey. The data contains various survey ratings regarding different customer classes and travel types. Airlines can use my model to better understand the critical features that strongly impact satisfaction.
