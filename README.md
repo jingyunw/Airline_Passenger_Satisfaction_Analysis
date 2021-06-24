@@ -75,15 +75,15 @@ Further analysis can be explored on the following to provide additional insights
 - <b>Competitive Airline</b>: Acquire data from competitive airlines to understand their strengths and weakness in relation to our airline which can help us refine strategy and increase customer loyalty
 
 ## For More Information
-See the full analysis and modeling in the [Jupyter Notebook](./Airline-Passenger-Satisfaction.ipynb) and [presentation](./Satisfaction-Presentation.pdf).
+See the full analysis and modeling in the [Jupyter Notebook](./Notebook.ipynb) and [presentation](./Presentation.pdf).
 For additional information please contact, JingYun (Jonna) Wang at jingyunwang24@gmail.com
 
 ## Repository Structure
 ```
 ├── data
 ├── images
-├── Airline-Passenger-Satisfaction.ipynb
+├── Notebook.ipynb
+├── Presentation.pdf
 ├── README.md
-├── Satisfaction-Presentation.pdf
 └── eva_f.py
 ```
